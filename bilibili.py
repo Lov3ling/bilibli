@@ -1,3 +1,6 @@
+# -*- coding: utf-8 -*-
+#by:Lov3
+#date:2017-3-14
 import json
 import requests
 from lxml import etree
